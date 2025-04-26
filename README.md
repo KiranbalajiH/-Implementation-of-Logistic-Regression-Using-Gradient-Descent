@@ -35,8 +35,8 @@ Prepare new data, scale it, and use the trained model to predict the target vari
 ```python
 /*
 Program to implement the the Logistic Regression Using Gradient Descent.
-Developed by: REHAN JEYAN
-RegisterNumber:  212223040167
+Developed by: KIRANBALAJI H
+RegisterNumber:  212223040096
 */
 import pandas as pd
 import numpy as np
